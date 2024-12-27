@@ -1,7 +1,7 @@
 # frosty_showdown
 2 Player Snowball throwing game designed for an Upduino board and 2 NES controllers. Created for final project ES4 (Intro to Digital Logic) at Tufts University.
 
-![Welcome Screen](/frosty_showdown_images/welcome_screen)
+![Welcome Screen](./frosty_showdown_images/welcome_screen)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Frosty Showdown is a 2D fighting game in which two snowmen, implemented with movement by NES controllers, throw snowballs at each other in an attempt to hit each other. Once one snowman hits the other, the game ends, which transitions to the respective player winning!
